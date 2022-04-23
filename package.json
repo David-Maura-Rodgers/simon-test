@@ -1,0 +1,22 @@
+{
+  "name": "simon-test",
+  "version": "1.0.0",
+  "description": "![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/David-Maura-Rodgers/simon-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/David-Maura-Rodgers/simon-test/issues"
+  },
+  "homepage": "https://github.com/David-Maura-Rodgers/simon-test#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
